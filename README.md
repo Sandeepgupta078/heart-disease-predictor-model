@@ -18,8 +18,8 @@ This project uses machine learning algorithms to predict the probability of hear
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sandeepgupta078/heart-disease-predictor.git
-cd heart-disease-predictor
+git clone https://github.com/Sandeepgupta078/heart-disease-predictor-model.git
+cd heart-disease-predictor-model
 
 # Create a virtual environment
 python -m venv venv
@@ -27,14 +27,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-# Run the prediction model
-```bash
-python src/predict.py
 ```
 
 # Start the web interface
