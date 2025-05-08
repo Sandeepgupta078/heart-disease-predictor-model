@@ -46,6 +46,7 @@ heart-disease-predictor/
 ├── app.py                       # Main Streamlit app file
 ├── model/                       # Folder containing trained models (e.g.,    heart_disease_model.sav)
 │   ├── heart_disease_model.sav  # Trained model (Pickle file)
+├── dataset/                     # Folder containing datasets
 ├── requirements.txt             # Dependencies required for the app
 └── README.md                    # Project information
 
